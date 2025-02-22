@@ -1,0 +1,54 @@
+/* Estilização do HEADER */
+header {
+    background-color: #faaee1;
+    padding: 30px 0;
+    text-align: center; /* Centraliza o conteúdo do header */
+}
+
+.divHeader {
+    position: relative;
+    display: inline-block; /* Centraliza o divHeader */
+}
+
+.logo {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%; /* Torna o logo redondo */
+    display: block; /* Centraliza o logo */
+    margin: 0 auto; /* Centraliza o logo */
+}
+
+nav {
+    font-size: x-large;
+    display: inline-block; /* Centraliza o menu de navegação */
+    margin-top: 20px; /* Adiciona espaço entre o logo e o menu */
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none; /* Remove os marcadores da lista */
+}
+
+nav li {
+    display: inline;
+    margin: 0 15px; /* Ajusta o espaçamento entre os itens do menu */
+}
+.baner{
+    width: 100%;
+    height: 40%;
+    object-fit: cover;
+}
+/* Sobre nos */
+.sobre_nos{
+    margin: 0;
+    text-align: justify;
+    width: 60%;
+    margin-left: 20%;
+}
+.img_sobrenos{
+    width: 10%;
+}
+.titilo_sobrenos{
+    text-align: center;
+}
