@@ -48,6 +48,7 @@ nav li {
 }
 .img_sobrenos{
     width: 10%;
+    float: left;
 }
 .titilo_sobrenos{
     text-align: center;
